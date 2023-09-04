@@ -1,0 +1,15 @@
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\bin\Debug\net6.0\control_task.exe
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\bin\Debug\net6.0\control_task.deps.json
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\bin\Debug\net6.0\control_task.runtimeconfig.json
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\bin\Debug\net6.0\control_task.dll
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\bin\Debug\net6.0\control_task.pdb
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\obj\Debug\net6.0\control_task.csproj.AssemblyReference.cache
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\obj\Debug\net6.0\control_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\obj\Debug\net6.0\control_task.AssemblyInfoInputs.cache
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\obj\Debug\net6.0\control_task.AssemblyInfo.cs
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\obj\Debug\net6.0\control_task.csproj.CoreCompileInputs.cache
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\obj\Debug\net6.0\control_task.dll
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\obj\Debug\net6.0\refint\control_task.dll
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\obj\Debug\net6.0\control_task.pdb
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\obj\Debug\net6.0\control_task.genruntimeconfig.cache
+C:\Users\Софья\OneDrive\Рабочий стол\control_work\control_task\obj\Debug\net6.0\ref\control_task.dll
